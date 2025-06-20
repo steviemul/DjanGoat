@@ -3,7 +3,7 @@ name: Contrast local scan
 on:
   push:
     branches:
-    - 'main'
+    - 'master'
       
 permissions:
   contents: read
